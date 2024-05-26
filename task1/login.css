@@ -1,0 +1,223 @@
+.login .login {
+ break-words
+ font-['Abhaya_Libre_ExtraBold','Roboto_Condensed']
+ font-extrabold
+ text-[11px]
+ text-[#000000]
+}
+.login .container {
+ m-[0_216.8px_58px_0]
+ inline-block
+ break-words
+ font-['Abhaya_Libre_ExtraBold','Roboto_Condensed']
+ font-extrabold
+ text-[40px]
+ text-[#000000]
+}
+.login-1 {
+ bg-[#FFFFFF]
+ p-[28px_0_0_0]
+ box-sizing-border
+}
+.login .ellipse-1 {
+ absolute
+ left-[-10px]
+ top-[-57px]
+ w-[194px]
+ h-[166px]
+}
+.login .ellipse-2 {
+ absolute
+ left-[-64px]
+ top-[28px]
+ w-[156px]
+ h-[138px]
+}
+.login .ellipse-5 {
+ absolute
+ top-[793px]
+ right-[-28px]
+ w-[181px]
+ h-[204px]
+}
+.login .password {
+ m-[1px_0_0_0]
+ inline-block
+ break-words
+ font-['Abhaya_Libre_ExtraBold','Roboto_Condensed']
+ font-extrabold
+ text-[16px]
+ text-[rgba(244,33,185,0.5)]
+}
+.login .ellipse-7 {
+ absolute
+ top-[228px]
+ right-[207px]
+ w-[2px]
+ h-[9px]
+}
+.login .ellipse-6 {
+ absolute
+ top-[741px]
+ right-[-28px]
+ w-[137px]
+ h-[133px]
+}
+.login .ellipse-8 {
+ rounded-[65px]
+ bg-[url('../assets/images/ellipse_8.png')]
+ bg-[50%_50%]
+ bg-cover
+ bg-no-repeat
+ absolute
+ top-[188px]
+ right-[109px]
+ w-[130px]
+ h-[130px]
+}
+.login .email {
+ m-[1px_0_0_0]
+ inline-block
+ break-words
+ font-['Abhaya_Libre_ExtraBold','Roboto_Condensed']
+ font-extrabold
+ text-[16px]
+ text-[rgba(245,20,182,0.5)]
+}
+.login .image-2 {
+ bg-[url('../assets/images/image_2.png')]
+ bg-[50%_50%]
+ bg-cover
+ bg-no-repeat
+ m-[0_9px_0_0]
+ w-[20px]
+ h-[20px]
+}
+.login .or {
+ m-[0_0_46px_139.2px]
+ inline-block
+ break-words
+ font-['Abhaya_Libre_ExtraBold','Roboto_Condensed']
+ font-extrabold
+ text-[11px]
+ text-[#000000]
+}
+.login .image-3 {
+ bg-[url('../assets/images/image_3.png')]
+ bg-[50%_50%]
+ bg-cover
+ bg-no-repeat
+ w-[20px]
+ h-[20px]
+}
+.login .image-4 {
+ bg-[url('../assets/images/image_4.png')]
+ bg-[50%_50%]
+ bg-cover
+ bg-no-repeat
+ w-[20px]
+ h-[20px]
+}
+.login .image-5 {
+ bg-[url('../assets/images/image_5.png')]
+ bg-[50%_50%]
+ bg-cover
+ bg-no-repeat
+ w-[20px]
+ h-[20px]
+}
+.login .image-6 {
+ bg-[url('../assets/images/image_6.png')]
+ bg-[50%_50%]
+ bg-cover
+ bg-no-repeat
+ m-[0_9px_0_0]
+ w-[20px]
+ h-[20px]
+}
+.login .login-2 {
+ m-[0_4.6px_84px_0]
+ inline-block
+ break-words
+ font-['Inika']
+ font-bold
+ text-[24px]
+ text-[#000000]
+}
+.login .dont-have-account {
+ m-[0_12.7px_0_0]
+ break-words
+ font-['Abhaya_Libre_ExtraBold','Roboto_Condensed']
+ font-extrabold
+ text-[16px]
+ text-[rgba(171,160,160,0.98)]
+}
+.login .sign-up {
+ m-[0_0px_0_0]
+ break-words
+ font-['Abhaya_Libre_ExtraBold','Roboto_Condensed']
+ font-extrabold
+ text-[16px]
+ text-[rgba(222,18,18,0.4)]
+}
+.login .container {
+ m-[0_18px_82px_18px]
+ flex
+ flex-row
+ justify-between
+ self-end
+ w-[201px]
+ box-sizing-border
+}
+.login .container-1 {
+ relative
+ flex
+ flex-col
+ items-center
+ w-[362px]
+ h-[fit-content]
+ box-sizing-border
+}
+.login .container-2 {
+ rounded-[50px]
+ bg-[#54D9D9]
+ relative
+ m-[0_0_24px_0]
+ flex
+ self-end
+ p-[16px_0_20px_4.8px]
+ w-[213px]
+ box-sizing-border
+}
+.login .container-3 {
+ rounded-tr-[65px]
+ bg-[#54D9D9]
+ absolute
+ left-[-4px]
+ top-[200px]
+ flex
+ flex-row
+ p-[19px_0_14px_0]
+ w-[241px]
+ h-[53px]
+ box-sizing-border
+}
+.login .container-4 {
+ m-[0_0_0_69.3px]
+ flex
+ flex-row
+ w-[fit-content]
+ box-sizing-border
+}
+.login .container-5 {
+ rounded-tr-[65px]
+ bg-[#54D9D9]
+ relative
+ m-[0_0_124px_0]
+ flex
+ flex-row
+ self-start
+ p-[14px_0_24px_0]
+ w-[260px]
+ box-sizing-border
+}
